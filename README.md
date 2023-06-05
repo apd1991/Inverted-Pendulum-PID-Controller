@@ -1,6 +1,6 @@
 # Inverted_Pendulum
 
-It's a basic Dynamic simulaiton with PID controller code.
+It's a basic Dynamic simulaiton with PID controller.
 
 I've added <eigen3/Eigen/Dense> instead of <Eigen/Dense> only. Apparently, I have to go I step up in the directory structure. Alternatively, one could "Include" path to Eigen libraries in the compilation process from terminal (i think a bit tedious).
 
