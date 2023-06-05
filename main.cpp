@@ -2,8 +2,6 @@
 #include <fstream>  // Include the header for file stream operations
 #include "Pendulum.h"
 #include "PIDController.h"
-#include "Pendulum.cpp"
-#include "PIDController.cpp"
 
 int main() {
     Pendulum pendulum(1.0, 1.0, 0.2, 0.0);
